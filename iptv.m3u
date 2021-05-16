@@ -15,8 +15,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Abu Dhabi Sports 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sports",Abu Dhabi Sports 3 (1080p)
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4" tvg-name="Abu Dhabi Sports 4" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="Sports",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
-https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV (1080p)
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AdenTV.ye" tvg-name="Aden TV" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KJTEVbf.png" group-title="General",Aden TV
@@ -90,8 +88,6 @@ http://93.184.1.247/Aljadeed/tracks-v1a1/mono.m3u8
 http://ott-cdn.ucom.am/s69/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic (1080p)
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlKassFive.qa" tvg-name="Al Kass Five" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sports",Al Kass Five (576p)
@@ -172,8 +168,6 @@ https://live.al-zahratv.com/live/playlist2/index.m3u8
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="AlRafidainTV.iq" tvg-name="Al-Rafidain TV" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="General",Al-Rafidain TV
 http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
-#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png" group-title="Religious",Al-Resalah (1080p) [Geo-blocked]
-https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
 #EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png" group-title="Religious",Al-Resalah (1080p)
 https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index.m3u8
 #EXTINF:-1 tvg-id="AlShahed.kw" tvg-name="Al-Shahed" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://alshahed.tv/wp-content/themes/twentyfifteen/asset/img/logo.png" group-title="",Al-Shahed
@@ -318,8 +312,6 @@ http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="Future TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="General",Future TV (486p)
 https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1 tvg-id="GEMArabia.ir" tvg-name="GEM Arabia" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_arabia.png?14" group-title="Entertainment",GEM Arabia [Geo-blocked]
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-name="Gulli Bil Arabi" tvg-country="FR" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png" group-title="Kids",Gulli Bil Arabi (1080p)
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
 #EXTINF:-1 tvg-id="HalaLondon.uk" tvg-name="Hala London" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="",Hala London (1080p)
@@ -625,7 +617,6 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.ae" tvg-name="Zee Alwan" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="",Zee Alwan (720p)
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-
 #EXTINF:-1 tvg-id="3eeshAlAanTV.ae" tvg-name="3eesh Al Aan TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="General",3eesh Al Aan TV
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Drama" tvg-name="Abu Dhabi Drama" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="General",Abu Dhabi Drama (1080p)
@@ -636,8 +627,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Abu Dhabi Sports 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sports",Abu Dhabi Sports 3 (1080p)
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4" tvg-name="Abu Dhabi Sports 4" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="Sports",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
-https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV (1080p)
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya (1080p)
@@ -651,8 +640,6 @@ http://93.184.1.247/Aljadeed/tracks-v1a1/mono.m3u8
 http://ott-cdn.ucom.am/s69/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic (1080p)
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="News",Al Manar (576p)
