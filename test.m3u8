@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MTV.lb" tvg-name="MTV Lebanon TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="" group-title="General", MTV TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/140.m3u8
+#EXTINF:-1 tvg-id="MTV.lb" tvg-name="MTV Lebanon TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="" group-title="General",MTV TV (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+http://web.teledunet.com:8080/live/tdn/459552342359/10009.m3u8
+
+
