@@ -7,8 +7,8 @@ http://web.teledunet.com:8080/live/tdn/459552342358/10008.m3u8
 http://85.25.213.44:8080/live/E9T6WjqMMC/nvomCmAkEm/141.m3u8?token=QkEKBxFeQAkSUQ8MBgVTA1JTVlsIXV5WBlNdVgEDAVgJU1dQAQ5QVVNBFRpGRhQEUVg5UVVGAgFXUxQQQUAGS2YKBkRYFFERHEFNUVhXRFsAGURIWAAaCkFTDAUHA0EVGwYaEgdEDFJcPF1dQ1sFBBIPCE1dCBQSDAxnVlFeAlddQVhEUhROEVkQSRoPXBMNXBlEWlgQSlEXBxoIFgFTDQFBTkQBWRddRBFAGg8QMzISGURdSRBdXhALV1wWCUFUChZaRE4UC0BvEVxLQUADAF1QFBoLRggST0BVU0xsAFZXDQcFFl8NXUNBAxoFEEpDXVoIUUULSm8TC1wQDhFRDAhWUUQf
 #EXTINF:-1 tvg-id="AljadeedTv.ld" tvg-name="Al Jadeed TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="General",Al Jadeed (Youtube)
 https://www.youtube.com/watch?v=IVokgRashDg
-#EXTINF:-1 tvg-id="22TV.sa" tvg-name="22 TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" group-title="General",22 TV
-http://82.212.74.99:8000/live/hls/8117.m3u8
+#EXTINF:-1 tvg-id="22TV.sa" tvg-name="22 TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" group-title="General",LBC TV
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 tvg-id="3eeshAlAanTV.ae" tvg-name="3eesh Al Aan TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="General",3eesh Al Aan TV
