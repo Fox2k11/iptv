@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AljadeedTv.lb" tvg-name="Al Jadeed TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="General",Al Jadeed (1080p)
+#EXTINF:-1 tvg-id="AljadeedTv.la" tvg-name="Al Jadeed TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="General",Al Jadeed (1080p)
 http://188.160.0.148:1935/5c76a1358452981/_definst_/smil:myStream.smil/playlist.m3u8?t=5e5b8e3be3b16
 #EXTINF:-1 tvg-id="AljadeedTv.lb" tvg-name="Al Jadeed TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="General",Al Jadeed (Backup)
 http://web.teledunet.com:8080/live/tdn/4595523704766/10008.m3u8
-#EXTINF:-1 tvg-id="AljadeedTv.lb" tvg-name="Al Jadeed TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="General",Al Jadeed (Backup 2)
+#EXTINF:-1 tvg-id="AljadeedTv.lc" tvg-name="Al Jadeed TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="General",Al Jadeed (Backup 2)
 http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/141.m3u8
+#EXTINF:-1 tvg-id="AljadeedTv.ld" tvg-name="Al Jadeed TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="General",Al Jadeed (Youtube)
+https://www.youtube.com/watch?v=IVokgRashDg
 #EXTINF:-1 tvg-id="22TV.sa" tvg-name="22 TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" group-title="General",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",2M Monde (360p)
