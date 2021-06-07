@@ -703,3 +703,49 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.ae" tvg-name="Zee Alwan" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="",Zee Alwan (720p)
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1,(1) Das Erste HD
+rtp://87.141.215.251@232.0.20.35:10000
+#EXTINF:-1,(2) ZDF HD
+rtp://87.141.215.251@232.0.20.234:10000
+rtp://87.141.215.251@232.0.10.234:10000
+#EXTINF:-1,(3) RTL SD
+rtp://87.141.215.251@232.0.10.135:10000
+#EXTINF:-1,(4) SAT.1 SD
+rtp://87.141.215.251@232.0.10.146:10000
+#EXTINF:-1,(5) ProSieben SD
+rtp://87.141.215.251@232.0.10.120:10000
+#EXTINF:-1,(6) VOX SD
+rtp://87.141.215.251@232.0.10.221:10000
+#EXTINF:-1,(7) Kabel Eins SD
+rtp://87.141.215.251@232.0.10.82:10000
+#EXTINF:-1,(8) RTLZWEI SD
+rtp://87.141.215.251@232.0.10.140:10000
+#EXTINF:-1,(38) SWR RP HD
+rtp://87.141.215.251@232.0.20.203:10000
+#EXTINF:-1,(69) ProSieben MAXX SD
+rtp://87.141.215.251@232.0.10.122:10000
+#EXTINF:-1,(70) NITRO SD
+rtp://87.141.215.251@232.0.10.143:10000
+#EXTINF:-1,(71) RTLplus SD
+rtp://87.141.215.251@232.0.10.240:10000
+#EXTINF:-1,(73) SAT.1 GOLD SD
+rtp://87.141.215.251@232.0.10.149:10000
+#EXTINF:-1,(75) sixx SD
+rtp://87.141.215.251@232.0.10.157:10000
+#EXTINF:-1,(78) VOXup SD
+rtp://87.141.215.251@232.0.10.239:10000
+#EXTINF:-1,(80) ARD-alpha HD
+rtp://87.141.215.251@232.0.20.9:10000
+#EXTINF:-1,(80) ARD-alpha SD
+rtp://87.141.215.251@232.0.10.9:10000
+#EXTINF:-1,(85) DW SD
+rtp://87.141.215.251@232.0.10.39:10000
+#EXTINF:-1,(89) Kabel Eins Doku SD
+rtp://87.141.215.251@232.0.11.2:10000
+#EXTINF:-1,(91) tagesschau24 HD
+rtp://87.141.215.251@232.0.20.205:10000
+#EXTINF:-1,(93) ZDFinfo HD
+rtp://87.141.215.251@232.0.20.237:10000
+#EXTINF:-1,(473) Rhein-Main TV SD
+rtp://87.141.215.251@232.0.11.37:10000
+
