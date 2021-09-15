@@ -550,6 +550,12 @@ http://media6.smc-host.com:1935/omgchannel.net/omgseries/playlist.m3u8
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="General",OTV (1080p)
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OTVLebanon.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="General",OTV (720p)
+http://62.182.82.104/OTV/index.m3u8?token=test
+#EXTINF:-1 tvg-id="OTVLebanon.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="General",OTV (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8
 #EXTINF:-1 tvg-id="PalestineMubasher.ps" tvg-name="Palestine Mubasher" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bYz6HUG.png" group-title="General",Palestine Mubasher
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-name="Palestine Satellite Channel" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" group-title="General",Palestine Satellite Channel
@@ -638,6 +644,14 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 http://82.137.248.16:1935/SEdu/stream19042021/playlist.m3u8
 #EXTINF:-1 tvg-id="SyrianNewsChannel.sy" tvg-name="Syrian News Channel" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News",Syrian News Channel (270p)
 http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia (720p)
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia (Portrait) (1080p)
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 tvg-id="SAT7ARABIC.cy" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xvJw3qt.png" group-title="Religious",SAT-7 ARABIC (720p)
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="SawtElMada.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.sawtelmada.com/assets/themes/sawt%20al%20mada/images/logo.png" group-title="",Sawt El Mada (460p) [Not 24/7]
+https://svs.itworkscdn.net/madalive/mada/playlist.m3u8
 #EXTINF:-1 tvg-id="Tamazight.ma" tvg-name="Tamazight" tvg-country="MA" tvg-language="Arabic" tvg-logo="" group-title="General",Tamazight (360p)
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="Tamazight.ma" tvg-name="Tamazight" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uC6IF9P.png" group-title="General",Tamazight (360p)
@@ -655,6 +669,12 @@ https://iptv--iptv.repl.co/Arabic/Zikrayat/
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/toyorlive/live
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TeleLiban.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="General",Tele Liban (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTINF:-1 tvg-id="TeleLiban.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="General",Tele Liban (576p)
+#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-name="Tunisie Immobilier TV" tvg-country="TN" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="Travel",Tunisie Immobilier TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVSeventeen.lb" tvg-name="TV Seventeen" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.tvseventeen.com/img/logo.png" group-title="News",TV Seventeen (720p)
@@ -699,3 +719,4 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.ae" tvg-name="Zee Alwan" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="",Zee Alwan (720p)
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+
