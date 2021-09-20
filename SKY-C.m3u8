@@ -3,84 +3,21 @@
 #EXTINF:-1 tvg-chno="127" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:7F:1:85:FFFF0000:0:0:0:" tvg-name="13th Street HD",13th Street HD
 #EXTVLCOPT:program=127
 http://192.168.2.9:8001/1:0:19:7F:1:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="200" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:C6:C8:3:85:FFFF0000:0:0:0:" tvg-name="BDL VoD",BDL VoD
-#EXTVLCOPT:program=200
-http://192.168.2.9:8001/1:0:C6:C8:3:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="133" tvg-logo="http://192.168.2.9/picon/1_0_19_85_1_85_FFFF0000_0_0_0.png" tvg-id="1:0:19:85:1:85:FFFF0000:0:0:0:" tvg-name="Beate Uhse HD",Beate Uhse HD
-#EXTVLCOPT:program=133
-http://192.168.2.9:8001/1:0:19:85:1:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="3500" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:95:DAC:3:85:FFFF0000:0:0:0:" tvg-name="BEM Service",BEM Service
-#EXTVLCOPT:program=3500
-http://192.168.2.9:8001/1:0:95:DAC:3:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="28" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:1:1C:4:85:FFFF0000:0:0:0:" tvg-name="Boomerang",Boomerang
-#EXTVLCOPT:program=28
-http://192.168.2.9:8001/1:0:1:1C:4:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="130" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:82:6:85:FFFF0000:0:0:0:" tvg-name="Discovery HD",Discovery HD
 #EXTVLCOPT:program=130
 http://192.168.2.9:8001/1:0:19:82:6:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="270" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:10E:6:85:FFFF0000:0:0:0:" tvg-name="Eurosport360HD 1",Eurosport360HD 1
-#EXTVLCOPT:program=270
-http://192.168.2.9:8001/1:0:19:10E:6:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="280" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:118:D:85:FFFF0000:0:0:0:" tvg-name="Eurosport360HD 2",Eurosport360HD 2
-#EXTVLCOPT:program=280
-http://192.168.2.9:8001/1:0:19:118:D:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="290" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:122:C:85:FFFF0000:0:0:0:" tvg-name="Eurosport360HD 3",Eurosport360HD 3
-#EXTVLCOPT:program=290
-http://192.168.2.9:8001/1:0:19:122:C:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="300" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:12C:1:85:FFFF0000:0:0:0:" tvg-name="Eurosport360HD 4",Eurosport360HD 4
-#EXTVLCOPT:program=300
-http://192.168.2.9:8001/1:0:19:12C:1:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="310" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:136:4:85:FFFF0000:0:0:0:" tvg-name="Eurosport360HD 5",Eurosport360HD 5
-#EXTVLCOPT:program=310
-http://192.168.2.9:8001/1:0:19:136:4:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="320" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:140:3:85:FFFF0000:0:0:0:" tvg-name="Eurosport360HD 6",Eurosport360HD 6
-#EXTVLCOPT:program=320
-http://192.168.2.9:8001/1:0:19:140:3:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="330" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:14A:3:85:FFFF0000:0:0:0:" tvg-name="Eurosport360HD 7",Eurosport360HD 7
-#EXTVLCOPT:program=330
-http://192.168.2.9:8001/1:0:19:14A:3:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="340" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:154:4:85:FFFF0000:0:0:0:" tvg-name="Eurosport360HD 8",Eurosport360HD 8
-#EXTVLCOPT:program=340
-http://192.168.2.9:8001/1:0:19:154:4:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="260" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:104:1:85:FFFF0000:0:0:0:" tvg-name="Eurosport360HD 9",Eurosport360HD 9
-#EXTVLCOPT:program=260
-http://192.168.2.9:8001/1:0:19:104:1:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="124" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:7C:6:85:FFFF0000:0:0:0:" tvg-name="Fox HD",Fox HD
 #EXTVLCOPT:program=124
 http://192.168.2.9:8001/1:0:19:7C:6:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="3501" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:1:DAD:3:85:FFFF0000:0:0:0:" tvg-name="GFD Service",GFD Service
-#EXTVLCOPT:program=3501
-http://192.168.2.9:8001/1:0:1:DAD:3:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="22" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:1:16:3:85:FFFF0000:0:0:0:" tvg-name="Heimatkanal",Heimatkanal
-#EXTVLCOPT:program=22
-http://192.168.2.9:8001/1:0:1:16:3:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="19" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:1:13:1:85:FFFF0000:0:0:0:" tvg-name="Junior",Junior
-#EXTVLCOPT:program=19
-http://192.168.2.9:8001/1:0:1:13:1:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="112" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:70:D:85:FFFF0000:0:0:0:" tvg-name="NatGeo HD",NatGeo HD
 #EXTVLCOPT:program=112
 http://192.168.2.9:8001/1:0:19:70:D:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="118" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:76:6:85:FFFF0000:0:0:0:" tvg-name="National Geographic Wild HD",National Geographic Wild HD
 #EXTVLCOPT:program=118
 http://192.168.2.9:8001/1:0:19:76:6:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="2691" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:C1:A83:4:85:FFFF0000:0:0:0:" tvg-name="NDS Applikation",NDS Applikation
-#EXTVLCOPT:program=2691
-http://192.168.2.9:8001/1:0:C1:A83:4:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="138" tvg-logo="http://192.168.2.9/picon/nickjr.png" tvg-id="1:0:1:8A:1:85:FFFF0000:0:0:0:" tvg-name="Nick.Jr.",Nick.Jr.
-#EXTVLCOPT:program=138
-http://192.168.2.9:8001/1:0:1:8A:1:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="3994" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:C:F9A:3:85:FFFF0000:0:0:0:" tvg-name="Pace TDC 866 NSDX",Pace TDC 866 NSDX
-#EXTVLCOPT:program=3994
-http://192.168.2.9:8001/1:0:C:F9A:3:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="518" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:1:206:3:85:FFFF0000:0:0:0:" tvg-name="Romance TV",Romance TV
 #EXTVLCOPT:program=518
 http://192.168.2.9:8001/1:0:1:206:3:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="3502" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:1:DAE:4:85:FFFF0000:0:0:0:" tvg-name="SDMS Service 1",SDMS Service 1
-#EXTVLCOPT:program=3502
-http://192.168.2.9:8001/1:0:1:DAE:4:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="3503" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:1:DAF:4:85:FFFF0000:0:0:0:" tvg-name="SDMS Service 2",SDMS Service 2
-#EXTVLCOPT:program=3503
-http://192.168.2.9:8001/1:0:1:DAF:4:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="110" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:6E:D:85:FFFF0000:0:0:0:" tvg-name="Sky Atlantic HD",Sky Atlantic HD
 #EXTVLCOPT:program=110
 http://192.168.2.9:8001/1:0:19:6E:D:85:FFFF0000:0:0:0:
@@ -135,9 +72,6 @@ http://192.168.2.9:8001/1:0:19:75:4:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="129" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:81:6:85:FFFF0000:0:0:0:" tvg-name="Sky Sport 1 HD",Sky Sport 1 HD
 #EXTVLCOPT:program=129
 http://192.168.2.9:8001/1:0:19:81:6:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="338" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:152:4:85:FFFF0000:0:0:0:" tvg-name="Sky Sport 10 HD",Sky Sport 10 HD
-#EXTVLCOPT:program=338
-http://192.168.2.9:8001/1:0:19:152:4:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="258" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:102:1:85:FFFF0000:0:0:0:" tvg-name="Sky Sport 11 HD",Sky Sport 11 HD
 #EXTVLCOPT:program=258
 http://192.168.2.9:8001/1:0:19:102:1:85:FFFF0000:0:0:0:
@@ -165,12 +99,12 @@ http://192.168.2.9:8001/1:0:19:13E:3:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="328" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:148:3:85:FFFF0000:0:0:0:" tvg-name="Sky Sport 9 HD",Sky Sport 9 HD
 #EXTVLCOPT:program=328
 http://192.168.2.9:8001/1:0:19:148:3:85:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-chno="338" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:152:4:85:FFFF0000:0:0:0:" tvg-name="Sky Sport 10 HD",Sky Sport 10 HD
+#EXTVLCOPT:program=338
+http://192.168.2.9:8001/1:0:19:152:4:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="105" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:69:C:85:FFFF0000:0:0:0:" tvg-name="Sky Sport Bundesliga 1 HD",Sky Sport Bundesliga 1 HD
 #EXTVLCOPT:program=105
 http://192.168.2.9:8001/1:0:19:69:C:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="257" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:101:1:85:FFFF0000:0:0:0:" tvg-name="Sky Sport Bundesliga 10 HD",Sky Sport Bundesliga 10 HD
-#EXTVLCOPT:program=257
-http://192.168.2.9:8001/1:0:19:101:1:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="267" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:10B:6:85:FFFF0000:0:0:0:" tvg-name="Sky Sport Bundesliga 2 HD",Sky Sport Bundesliga 2 HD
 #EXTVLCOPT:program=267
 http://192.168.2.9:8001/1:0:19:10B:6:85:FFFF0000:0:0:0:
@@ -195,18 +129,15 @@ http://192.168.2.9:8001/1:0:19:147:3:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="337" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:151:4:85:FFFF0000:0:0:0:" tvg-name="Sky Sport Bundesliga 9 HD",Sky Sport Bundesliga 9 HD
 #EXTVLCOPT:program=337
 http://192.168.2.9:8001/1:0:19:151:4:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="552" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:1F:228:C:85:FFFF0000:0:0:0:" tvg-name="Sky Sport Bundesliga UHD",Sky Sport Bundesliga UHD
-#EXTVLCOPT:program=552
-http://192.168.2.9:8001/1:0:1F:228:C:85:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-chno="257" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:101:1:85:FFFF0000:0:0:0:" tvg-name="Sky Sport Bundesliga 10 HD",Sky Sport Bundesliga 10 HD
+#EXTVLCOPT:program=257
+http://192.168.2.9:8001/1:0:19:101:1:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="17" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:11:4:85:FFFF0000:0:0:0:" tvg-name="Sky Sport F1 HD",Sky Sport F1 HD
 #EXTVLCOPT:program=17
 http://192.168.2.9:8001/1:0:19:11:4:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="108" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:19:6C:C:85:FFFF0000:0:0:0:" tvg-name="Sky Sport News HD",Sky Sport News HD
 #EXTVLCOPT:program=108
 http://192.168.2.9:8001/1:0:19:6C:C:85:FFFF0000:0:0:0:
-#EXTINF:-1 tvg-chno="553" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:1F:229:C:85:FFFF0000:0:0:0:" tvg-name="Sky Sport UHD",Sky Sport UHD
-#EXTVLCOPT:program=553
-http://192.168.2.9:8001/1:0:1F:229:C:85:FFFF0000:0:0:0:
 #EXTINF:-1 tvg-chno="52" tvg-logo="http://192.168.2.9/images/default_picon.png" tvg-id="1:0:1:34:6:85:FFFF0000:0:0:0:" tvg-name="Spiegel Geschichte",Spiegel Geschichte
 #EXTVLCOPT:program=52
 http://192.168.2.9:8001/1:0:1:34:6:85:FFFF0000:0:0:0:
